@@ -71,3 +71,9 @@ For questions or support, please contact the course instructor.
 ---
 
 *Course materials are provided for educational purposes.*
+
+
+uv (Python package manager), latest, https://docs.astral.sh/uv/getting-started/installation/
+JupyterLab, latest, https://jupyter.org/install
+Git, latest, https://git-scm.com/downloads
+AWS CLI, v2, https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
