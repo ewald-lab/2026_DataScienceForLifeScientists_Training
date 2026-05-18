@@ -77,3 +77,6 @@ uv (Python package manager), latest, https://docs.astral.sh/uv/getting-started/i
 JupyterLab, latest, https://jupyter.org/install
 Git, latest, https://git-scm.com/downloads
 AWS CLI, v2, https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+- git
+- AWS, 
