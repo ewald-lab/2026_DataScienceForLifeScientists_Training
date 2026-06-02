@@ -2,4 +2,6 @@ cp-training
 
 inputs/
 
+.DS_Store
+
 **/outputs/**
