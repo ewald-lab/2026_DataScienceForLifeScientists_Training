@@ -120,29 +120,21 @@ Keep the talk short and visual.
 
 ## Getting Started
 
-You will need Git, conda, and the AWS CLI. Git is needed because one requirement is installed from GitHub. The AWS CLI is used by `01_plot_images.ipynb` to download public example images from S3 with `--no-sign-request`.
-
-Create and activate a conda environment, then install Jupyter Notebook and the course requirements.
+Move to the course directory:
 
 ```bash
-conda activate cp-training
-python -m pip install --upgrade pip
-python -m pip install notebook -r requirements.txt
-python -m ipykernel install --user --name cp-training --display-name "Cell Painting training"
+cd /home/training/course_dir/guillaume/2026_DataScienceForLifeScientists_Training
 ```
 
-Launch Jupyter Notebook from the repository root:
+Activate JupyterLab:
 
 ```bash
-jupyter notebook
+activate jupyter-lab
 ```
 
-If the `cp-training` environment already exists, activate it and start Jupyter Notebook:
+Open a Jupyter notebook.
 
-```bash
-conda activate cp-training
-jupyter notebook
-```
+Change the kernel to `Python (guillaume)` each time you open a notebook.
 
 ## Expected Outcome
 
